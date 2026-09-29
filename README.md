@@ -27,22 +27,22 @@
 *Todos mis repositorios de asignaturas están configurados como **públicos** para mostrar transparencia, evolución constante y consistencia en mi aprendizaje diario.*
 
 ### 🛠️ Proyectos y Empleabilidad
-*   📦 **[Proyecto-intermodular-I](https://github.com)**: Diseño arquitectónico, análisis de requisitos y especificación de software (SRS) para la plataforma de economía colaborativa **VeciShare**.
-*   💼 **[Itinerario_personal_para_la_empleabilidad-I](https://github.com)**: Modelos de CV profesionales, estrategias de inserción laboral en el sector IT y marcos de Prevención de Riesgos Laborales (PRL).
+*   📦 **[Proyecto-intermodular-I](https://github.com/benyachraqayoub/Proyecto-intermodular-I)**: Diseño arquitectónico, análisis de requisitos y especificación de software (SRS) para la plataforma de economía colaborativa **VeciShare**.
+*   💼 **[Itinerario_personal_para_la_empleabilidad-I](https://github.com/benyachraqayoub/Itinerario_personal_para_la_empleabilidad-I)**: Modelos de CV profesionales, estrategias de inserción laboral en el sector IT y marcos de Prevención de Riesgos Laborales (PRL).
 
 ### 💻 Desarrollo de Software y Sistemas
-*   💻 **[Programacion](https://github.com)**: Lógica algorítmica fundamental, estructuras de control iterativas y principios avanzados de Programación Orientada a Objetos (POO).
-*   🗄️ **[Bases_De_Datos](https://github.com)**: Modelado Entidad-Relación (ERD), normalización formal de datos (1FN-3FN) y desarrollo de scripts en MySQL.
-*   🌐 **[Lenguaje_de_marcas](https://github.com)**: Estructuración de datos con XML/JSON y diseño e interfaces web con componentes semánticos HTML/CSS.
-*   ⚙️ **[Entornos_de_desarrollo](https://github.com)**: Ciclo de vida del software, depuración, refactorización limpia y flujo de trabajo colaborativo en Git.
-*   🖥️ **[Sistemas-informaticos](https://github.com)**: Administración avanzada de sistemas operativos (Windows/Linux), redes informáticas y scripting de automatización.
+*   💻 **[Programacion](https://github.com/benyachraqayoub/Programacion)**: Lógica algorítmica fundamental, estructuras de control iterativas y principios avanzados de Programación Orientada a Objetos (POO).
+*   🗄️ **[Bases_De_Datos](https://github.com/benyachraqayoub/Bases_De_Datos)**: Modelado Entidad-Relación (ERD), normalización formal de datos (1FN-3FN) y desarrollo de scripts en MySQL.
+*   🌐 **[Lenguaje_de_marcas](https://github.com/benyachraqayoub/Lenguaje_de_marcas)**: Estructuración de datos con XML/JSON y diseño e interfaces web con componentes semánticos HTML/CSS.
+*   ⚙️ **[Entornos_de_desarrollo](https://github.com/benyachraqayoub/Entornos_de_desarrollo)**: Ciclo de vida del software, depuración, refactorización limpia y flujo de trabajo colaborativo en Git.
+*   🖥️ **[Sistemas-informaticos](https://github.com/benyachraqayoub/Sistemas-informaticos)**: Administración avanzada de sistemas operativos (Windows/Linux), redes informáticas y scripting de automatización.
 
 ### 🇬🇧 Competencias Transversales
-*   🗣️ **[Ingles-profesional-I](https://github.com)**: Documentación técnica de software, comunicación profesional corporativa y terminología específica de IT.
+*   🗣️ **[Ingles-profesional-I](https://github.com/benyachraqayoub/Ingles-profesional-I)**: Documentación técnica de software, comunicación profesional corporativa y terminología específica de IT.
 
 ---
 
 ## 📫 Conectemos
 *   💼 **LinkedIn:** [://linkedin.com](https://linkedin.com/in/ayoub-ben-yachraq-057217423/)
-*   🐙 **GitHub:** [@benyachraqayoub](https://github.com)
+*   🐙 **GitHub:** [@benyachraqayoub](https://github.com/benyachraqayoub)
 
